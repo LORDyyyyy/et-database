@@ -1,8 +1,8 @@
-## Elite Tech
-### The database and dataset files for the project
+# Elite Tech
+#### The database and dataset files for the project
 
 
-### TODO
+## TODO
 - [x] Cases
 - [x] CPUs
 - [x] GPUs
