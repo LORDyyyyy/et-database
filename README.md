@@ -3,13 +3,13 @@
 
 
 ### TODO
-- [-] Cases
-- [-] CPUs
-- [-] GPUs
-- [-] Coolers
-- [-] Headphones
+- [x] Cases
+- [x] CPUs
+- [x] GPUs
+- [x] Coolers
+- [x] Headphones
 - [ ] Mices
-- [-] Keyboards
+- [x] Keyboards
 - [ ] Monitors
 - [ ] MBs
 - [ ] PSs
