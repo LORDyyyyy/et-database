@@ -8,7 +8,7 @@
 - [x] GPUs
 - [x] Coolers
 - [x] Headphones
-- [ ] Mices
+- [x] Mices
 - [x] Keyboards
 - [ ] Monitors
 - [ ] MBs
