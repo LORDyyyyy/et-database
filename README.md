@@ -13,6 +13,6 @@
 - [x] Monitors
 - [x] MBs
 - [x] PSs
-- [ ] Rams
+- [x] Rams
 - [ ] Storages
 
