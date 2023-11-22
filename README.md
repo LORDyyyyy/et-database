@@ -14,5 +14,5 @@
 - [x] MBs
 - [x] PSs
 - [x] Rams
-- [ ] Storages
+- [x] Storages
 
