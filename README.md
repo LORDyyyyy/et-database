@@ -10,8 +10,8 @@
 - [x] Headphones
 - [x] Mices
 - [x] Keyboards
-- [ ] Monitors
-- [ ] MBs
+- [x] Monitors
+- [x] MBs
 - [ ] PSs
 - [ ] Rams
 - [ ] Storages
