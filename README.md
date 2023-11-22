@@ -12,7 +12,7 @@
 - [x] Keyboards
 - [x] Monitors
 - [x] MBs
-- [ ] PSs
+- [x] PSs
 - [ ] Rams
 - [ ] Storages
 
